@@ -69,8 +69,31 @@
 //}
 //Console.WriteLine("Mertebeleri cemi : " + sum);
 
- 
 
+
+ //Task - 5
+ //int[] numbers = { 1, 2, 3, 4, 5, 6, 8, 9, 10 };
+//int i, j = 0;
+//bool result = true;
+//for (i = 1; i <= 10; i++)
+//{
+//	result = false;
+
+//	for (j = 0; j < numbers.Length; j++)
+//	{
+//		if (numbers[j] == i)
+//		{
+//			result = true;
+//			break;
+//		}
+//	}
+
+//	if (!result)
+//	{
+//		Console.WriteLine("Eksik olan rəqəm: " + i);
+//		break;
+//	}
+//} 
 
 
 
