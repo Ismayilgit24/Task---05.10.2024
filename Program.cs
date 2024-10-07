@@ -72,7 +72,7 @@
 
 
  //Task - 5
- //int[] numbers = { 1, 2, 3, 4, 5, 6, 8, 9, 10 };
+ //int[] numbers = { 2, 5, 3, 6, 4, 8, 10, 1, 9 };
 //int i, j = 0;
 //bool result = true;
 //for (i = 1; i <= 10; i++)
